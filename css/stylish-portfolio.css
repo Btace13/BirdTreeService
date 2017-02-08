@@ -156,6 +156,7 @@ hr.small {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    background-attachment: fixed;
 }
 .header h1, .header h3 {
     color: #ddd;
